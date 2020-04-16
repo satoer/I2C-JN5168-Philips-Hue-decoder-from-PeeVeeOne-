@@ -14,7 +14,6 @@
 
 #include <Wire.h>
 
-#define DATA_PIN 4
 #define RED 0
 #define GREEN 1
 #define BLUE 2
